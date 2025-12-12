@@ -1,4 +1,4 @@
-# FF_pred_DL_UDRM
+# SWD-MDD
 
 Reproducible material for **Application of Multi-Dimensional Deconvolution to Enhance Seismic-While-Drilling Data Imaging - Wang N., Ravasi M., Deheuvels M., Alkhalifah T.**
 
@@ -40,7 +40,6 @@ It will take some time, if at the end you see the word `Done!` on your terminal 
 
 
 ## Cite us 
-Wang N. et al. (2025) Accelerating Upside-down Rayleigh-Marchenko imaging using Self-Supervised learning. 2025 SEG Expanded Abstracts.
-
+Wang N. et al. (2025) Application of Multi-Dimensional Deconvolution to Enhance Seismic-While-Drilling Data Imaging. Geophysics.
 
 
