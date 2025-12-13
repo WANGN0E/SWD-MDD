@@ -5,7 +5,7 @@
 # Run: ./install_env.sh
 
 
-echo 'Creating UD_RM environment'
+echo 'Creating SWD-MDD environment'
 
 # Ensure conda is initialized
 if [ -f ~/miniconda3/etc/profile.d/conda.sh ]; then
@@ -26,7 +26,7 @@ fi
 echo 'Creating conda environment from environment.yml...'
 conda env create -f environment.yml
 source ~/miniconda3/etc/profile.d/conda.sh
-conda activate UD_RM
+conda activate SWD-MDD
 conda env list
 echo 'Created and activated environment:' $(which python)
 

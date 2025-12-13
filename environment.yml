@@ -1,4 +1,4 @@
-name: UD_RM
+name: SWD-MDD
 channels:
   - defaults
   - conda-forge
