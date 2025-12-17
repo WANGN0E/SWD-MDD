@@ -13,7 +13,7 @@ Simply run:
 If you see the word `Done!` on your terminal you are ready to go. 
 
 **data**
-- Can be found from the DEEPWAVE folder, as well as from the google drive link: `https://drive.google.com/file/d/1Dw_tS_1yUfDrTPG855oIL9uNq-nvKuqo/view?usp=sharing`
+- Google drive link: `https://drive.google.com/file/d/1Dw_tS_1yUfDrTPG855oIL9uNq-nvKuqo/view?usp=sharing`
 
 
 ## Cite us 
